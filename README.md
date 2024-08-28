@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SamuelHollis
+- 👋 Hi, I’m @samuelhollis
 - 👀 I’m interested in Data Analysis with Python
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on ...
