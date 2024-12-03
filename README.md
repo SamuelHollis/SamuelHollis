@@ -50,9 +50,8 @@
 
 ## 📫 **Contáctame**
 
-- **LinkedIn:** [Tu perfil de LinkedIn](https://www.linkedin.com/)  
-- **Email:** tuemail@example.com  
-- **Portafolio:** [Tu portafolio](https://www.tuportafolio.com)
+- **LinkedIn:** [https://www.linkedin.com/in/samuelholliscalvo/](https://www.linkedin.com/)  
+- **Email:** samuelhollis16@gmail.com 
 
 ---
 
